@@ -36,6 +36,7 @@ Here are the data science and data analytics tools I use efficiently
     <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?&style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
 </div>
 
+[![](https://ghstats.dev/api/card?username=ibikunle-g&theme=tokyonight)](https://github.com/rowkavdev/GitHub-profile-stats)
 
   ## 👨‍💻 **Projects**
   Here are some of my projects  
