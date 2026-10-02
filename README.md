@@ -95,4 +95,4 @@ Here are the data science and data analytics tools I use efficiently
 https://ghstats.dev/api/profile/png?username=ibikunle-g&theme=dark&type=profile&download=true
 
 # Contribution heatmap
-https://ghstats.dev/api/profile/png?username=ibikunle-g&theme=dark&type=contributions
+[![](https://ghstats.dev/api/profile/png?username=ibikunle-g&theme=dark&type=contributions)
