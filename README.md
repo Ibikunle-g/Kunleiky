@@ -94,3 +94,5 @@ Here are the data science and data analytics tools I use efficiently
 
 <!-- This is a comment: Top languages -->
 ![Top Languages](https://ghstats.dev/api/langs?username=ibikunle-g&theme=forest&layout=vertical_list)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=ibikunle-g%20&custom_title=Ibikunleg%20Language%20Count&langs_count=5&display_format=percent&theme=gruvbox_light)](https://wakatime.com/@ibikunle-g )
