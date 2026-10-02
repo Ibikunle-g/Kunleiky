@@ -6,6 +6,8 @@ I am a data science professional with a keen interest in data science, data anal
 Here are my key skills and competencies 
 - Database administration with SQL
 - Machine Learning
+- Google Cloud Platform
+- LLM/RAG/Huggingface
 - Deep Learning
 - Explainable AI
 - Data Visualization
@@ -13,7 +15,9 @@ Here are my key skills and competencies
 - Dashboard and report creation 
 - Qualitative data analysis
 - Financial modeling
-- Git
+- Git & GitHub
+- App deployment with Streamlit
+- Docker and Kubernetes
 - Time series forecasting
 - PL-SEM
 - Markdown
