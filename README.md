@@ -39,8 +39,8 @@ Here are the data science and data analytics tools I use efficiently
 
    [![](https://ghstats.dev/api/card?username=ibikunle-g&theme=tokyonight)](https://github.com/rowkavdev/GitHub-profile-stats)
    
-
-[![](https://ghstats.dev/api/card?username=ibikunle-g&theme=radical&size=compact&compact_count=3)](https://github.com/rowkavdev/GitHub-profile-stats)
+<!-- This is a comment:  -->
+<!--[![](https://ghstats.dev/api/card?username=ibikunle-g&theme=radical&size=compact&compact_count=3)](https://github.com/rowkavdev/GitHub-profile-stats)  -->
 [![](https://ghstats.dev/api/card?username=ibikunle-g&theme=catppuccin&size=compact&compact_count=4)](https://github.com/rowkavdev/GitHub-profile-stats)
 [![](https://ghstats.dev/api/card?username=ibikunle-g&theme=forest&size=compact&compact_count=6)](https://github.com/rowkavdev/GitHub-profile-stats)
 
