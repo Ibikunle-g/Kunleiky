@@ -92,4 +92,5 @@ Here are the data science and data analytics tools I use efficiently
 
 [![](https://ghstats.dev/api/sparkline?username=ibikunle-g&days=30&width=420)](https://github.com/rowkavdev/GitHub-profile-stats)
 
-
+<!-- This is a comment: Top languages -->
+![Top Languages](https://ghstats.dev/api/langs?username=octocat&theme=solarized&layout=vertical_list)
