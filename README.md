@@ -45,7 +45,10 @@ Here are the data science and data analytics tools I use efficiently
 [![](https://ghstats.dev/api/card?username=ibikunle-g&theme=forest&size=compact&compact_count=6)](https://github.com/rowkavdev/GitHub-profile-stats)
 
 
-[![](https://ghstats.dev/api/sparkline?username=YOUR_USERNAME&days=30&width=420)](https://github.com/rowkavdev/GitHub-profile-stats)
+[![](https://ghstats.dev/api/sparkline?username=ibikunle-g&days=30&width=420)](https://github.com/rowkavdev/GitHub-profile-stats)
+
+
+
   ## 👨‍💻 **Projects**
   Here are some of my projects  
   - <b> ML Classification Task </b>: [Prediction of treatment discontinuation castration resistance prostate cancer](https://github.com/Kunleiky/prediction-of-treatment-discontinuation-for-metastatic-castration-resistance-prostate-cancer)
