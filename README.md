@@ -1,6 +1,12 @@
 # 👋 Hello, I'm **Ibikunle Gabriel**. Welcome to my GitHub profile.
 I am a data science professional with a keen interest in data science, data analytics, business intelligence, Machine Learning and Deep Learning. I'm deeply committed to solving complex problems, exploring new technologies, building pragmatic projects and sharing my knowledge of the beautiful and expansive world of data.
 
+
+<!-- This is a comment: GitHub Stats -->
+   [![](https://ghstats.dev/api/card?username=ibikunle-g&theme=tokyonight)](https://github.com/rowkavdev/GitHub-profile-stats)
+   
+
+
 ## 🚀🦾 **Skills and Competencies**
 Here are my key skills and competencies 
 - Database administration with SQL
@@ -36,9 +42,7 @@ Here are the data science and data analytics tools I use efficiently
     <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?&style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
 </div>
 
-<!-- This is a comment: GitHub Stats -->
-   [![](https://ghstats.dev/api/card?username=ibikunle-g&theme=tokyonight)](https://github.com/rowkavdev/GitHub-profile-stats)
-   
+
 
 <!--[![](https://ghstats.dev/api/card?username=ibikunle-g&theme=radical&size=compact&compact_count=3)](https://github.com/rowkavdev/GitHub-profile-stats)  -->
 
