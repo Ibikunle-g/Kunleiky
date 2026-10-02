@@ -7,7 +7,7 @@ Here are my key skills and competencies
 - Database administration with SQL
 - Machine Learning
 - Google Cloud Platform
-- LLM/RAG/Huggingface
+- LLM/RAG/LangChain
 - Deep Learning
 - Explainable AI
 - Data Visualization
