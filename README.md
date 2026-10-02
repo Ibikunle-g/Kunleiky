@@ -92,3 +92,7 @@ Here are the data science and data analytics tools I use efficiently
 
 [![](https://ghstats.dev/api/sparkline?username=ibikunle-g&days=30&width=420)](https://github.com/rowkavdev/GitHub-profile-stats)
 
+https://ghstats.dev/api/profile/png?username=ibikunle-g&theme=dark&type=profile&download=true
+
+# Contribution heatmap
+https://ghstats.dev/api/profile/png?username=ibikunle-g&theme=dark&type=contributions
