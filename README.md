@@ -82,7 +82,7 @@ Here are the data science and data analytics tools I use efficiently
 - ⚡ Fun fact about me: I love to sightsee in my spare time. I also love reading Sci-fi books, thriller novels and  technolgy books.
 
 <!-- This is a comment: GitHub Stats -->
-   [![](https://ghstats.dev/api/card?username=ibikunle-g&theme=tokyonight)](https://github.com/rowkavdev/GitHub-profile-stats)
+   [![](https://ghstats.dev/api/card?username=ibikunle-g&theme=tokyonight)](https://github.com/rowkavdev/GitHub-profile-stats?hide=stars,issues,followers)
    
 
 <!--[![](https://ghstats.dev/api/card?username=ibikunle-g&theme=radical&size=compact&compact_count=3)](https://github.com/rowkavdev/GitHub-profile-stats)  -->
@@ -91,4 +91,5 @@ Here are the data science and data analytics tools I use efficiently
 
 
 [![](https://ghstats.dev/api/sparkline?username=ibikunle-g&days=30&width=420)](https://github.com/rowkavdev/GitHub-profile-stats)
+
 
