@@ -36,12 +36,12 @@ Here are the data science and data analytics tools I use efficiently
     <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?&style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
 </div>
 
-
+<!-- This is a comment: GitHub Stats -->
    [![](https://ghstats.dev/api/card?username=ibikunle-g&theme=tokyonight)](https://github.com/rowkavdev/GitHub-profile-stats)
    
-<!-- This is a comment:  -->
+<!-- This is a comment: Compact card  -->
 <!--[![](https://ghstats.dev/api/card?username=ibikunle-g&theme=radical&size=compact&compact_count=3)](https://github.com/rowkavdev/GitHub-profile-stats)  -->
-[![](https://ghstats.dev/api/card?username=ibikunle-g&theme=catppuccin&size=compact&compact_count=4)](https://github.com/rowkavdev/GitHub-profile-stats)
+
 [![](https://ghstats.dev/api/card?username=ibikunle-g&theme=forest&size=compact&compact_count=6)](https://github.com/rowkavdev/GitHub-profile-stats)
 
 
